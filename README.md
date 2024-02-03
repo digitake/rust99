@@ -13,6 +13,8 @@ Problem
 3. [Find k-th element of the given vector](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=983cdbca3981435b71e7c21c2215727f)
 4. [Count number of element in the given vector](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=4d341136037839f9dec9e9fb25f3a030)
 5. [Reverse the vector](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=e962ed88f44137bd873086f411b079a2)
+6. [Check if a given vector is palindrome](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=6cd67302b8345a15d4457baab7f392ca)
+7. [List Flatten](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=34268b1c6c454d18b420ecbb4fb0b7eb)
 
 
 
